@@ -6,11 +6,12 @@
 😀 C++ and HTML/CSS (2+ years)\
 🤔 JavaScript (learning)
 
-### Certificates:
-CompTIA A+
-
 ### School:
 Completing 2-year A.A.S. Cybersecurity (3.8 GPA)
+
+### Certificates:
+CompTIA A+\
+<img src="Aplus Logo Certified CE.png" alt="Aplus Logo Certified CE" width="128"/>
 
 ## Experience:
 ### Employment:
