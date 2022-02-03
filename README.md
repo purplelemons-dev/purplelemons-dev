@@ -22,3 +22,6 @@ Chick-fil-A: IT Dept. (September 23, 2021 - present)
 😀 Python Flask: [The Basement webpage](https://thebasement.group/)\
 😀 Linux server administration (esp. Ubuntu/Debian)\
 🤔 NGNIX: [The Basement website](https://hub.thebasement.group/)
+
+## Goals:
+Read some of them [here](https://github.com/users/MRH3ADSH0T/projects/1)!
