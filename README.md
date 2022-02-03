@@ -24,5 +24,8 @@ Chick-fil-A: IT Dept. (September 23, 2021 - present)
 😀 Linux server administration (esp. Ubuntu/Debian)\
 🤔 NGNIX: [The Basement website](https://hub.thebasement.group/)
 
+![](https://github-readme-stats.vercel.app/api?username=MRH3ADSH0T&count_private=true&show_icons=true&theme=vue-dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MRH3ADSH0T&layout=compact&show_icons=true&theme=vue-dark)
+
 ## Goals:
 Read some of them [here](https://github.com/users/MRH3ADSH0T/projects/1)!
