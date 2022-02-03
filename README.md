@@ -1,16 +1,24 @@
-### Hi there 👋
+# MRH3ADSH0T / Purplelemons / Josh Smith
 
-<!--
-**MRH3ADSH0T/MRH3ADSH0T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Education:
+### Programming:
+💖 Python (4+ years)\
+😀 C++ and HTML/CSS (2+ years)\
+🤔 JavaScript (learning)
 
-Here are some ideas to get you started:
+### Certificates:
+CompTIA A+
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### School:
+Completing 2-year A.A.S. Cybersecurity (3.8 GPA)
+
+## Experience:
+### Employment:
+The Basement: Head Developer (Jun 25, 2021 - present)\
+Chick-fil-A: IT Dept. (September 23, 2021 - present)
+
+### Technologies:
+💖 Discord bots: [BasementBot](https://github.com/MRH3ADSH0T/basementbot), [CryptoBot](https://github.com/MRH3ADSH0T/380-crypto-center), [DiscordRCON](https://github.com/MRH3ADSH0T/discordRCON)\
+😀 Python Flask: [The Basement webpage](https://thebasement.group/)\
+😀 Linux server administration (esp. Ubuntu/Debian)\
+🤔 NGNIX: [The Basement website](https://hub.thebasement.group/)
