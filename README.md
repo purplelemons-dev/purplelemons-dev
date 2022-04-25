@@ -2,12 +2,13 @@
 
 ## Education:
 ### Programming:
-💖 Python (4+ years)\
+💖 Python (5+ years)\
 😀 C++ and HTML/CSS (2+ years)\
 🤔 JavaScript (learning)
 
 ### School:
-Completing 2-year A.A.S. Cybersecurity (3.8 GPA)
+ * Completing 2-year A.A.S. Cybersecurity (3.73 GPA)
+ * Collin College Fall '21 President's list.
 
 ### Certificates:
 CompTIA A+\
