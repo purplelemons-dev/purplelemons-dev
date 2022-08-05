@@ -3,11 +3,14 @@
 ## Education:
 ### Programming:
 💖 Python (5+ years)\
-😀 C++ and HTML/CSS (2+ years)\
-🤔 JavaScript (learning)
+😀 Ruby (4+ years)\
+😀 C++ (2+ years)\
+😀 HTML/CSS (2+ years)\
+😀 JavaScript (1 year)\
+🤔 Java (learning)
 
 ### School:
- * Completing 2-year A.A.S. Cybersecurity (3.73 GPA)
+ * Completing A.A.S. Cybersecurity (3.77 GPA)
  * Collin College Fall '21 President's list.
 
 ### Certificates:
@@ -16,14 +19,18 @@ CompTIA A+\
 
 ## Experience:
 ### Employment:
-The Basement: Head Developer (Jun 25, 2021 - present)\
-Chick-fil-A: IT Dept. (September 23, 2021 - present)
+The Basement: Head Developer (Jun 2021 - July 2022)\
+Chick-fil-A: IT Dept. (Sept 2021 - July 2022)
 
 ### Technologies:
 💖 Discord bots: [BasementBot](https://github.com/purplelemons-dev/basementbot), [CryptoBot](https://github.com/purplelemons-dev/380-crypto-center), [DiscordRCON](https://github.com/purplelemons-dev/discordRCON)\
+💖 REST APIs (see above and below)\
 😀 Python Flask: [The Basement webpage](https://thebasement.group/)\
 😀 Linux server administration (esp. Ubuntu/Debian)\
-🤔 NGNIX: [The Basement website](https://hub.thebasement.group/)
+🤔 Tensorflow: !!! insert repo here
+🤔 NGNIX: [The Basement website](https://hub.thebasement.group/)\
+🤔 NodeJS & npm (see above)
+
 
 ![](https://github-readme-stats.vercel.app/api?username=purplelemons-dev&count_private=true&show_icons=true&theme=vue-dark)\
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=purplelemons-dev&layout=compact&show_icons=true&theme=vue-dark)
