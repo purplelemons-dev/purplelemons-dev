@@ -27,7 +27,7 @@ Chick-fil-A: IT Dept. (Sept 2021 - July 2022)
 💖 REST APIs (see above and below)\
 😀 Python Flask: [The Basement webpage](https://thebasement.group/)\
 😀 Linux server administration (esp. Ubuntu/Debian)\
-🤔 Tensorflow: !!! insert repo here
+🤔 Tensorflow: !!! insert repo here\
 🤔 NGNIX: [The Basement website](https://hub.thebasement.group/)\
 🤔 NodeJS & npm (see above)
 
