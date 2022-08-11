@@ -10,8 +10,9 @@
 🤔 Java (learning)
 
 ### School:
- * Completing A.A.S. Cybersecurity (3.77 GPA)
+ * Completing A.A.S. Cybersecurity (3.7 GPA)
  * Collin College Fall '21 President's list.
+ * Collin College Spring '22 Dean's list.
 
 ### Certificates:
 CompTIA A+\
