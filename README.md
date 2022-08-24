@@ -12,7 +12,8 @@
 ### School:
  * Completing A.A.S. Cybersecurity (3.7 GPA)
  * Collin College Fall '21 President's list.
- * Collin College Spring '22 Dean's list.
+ * Ibid Spring '22 Dean's list.
+ * Ibid Summer '22 Dean's list. 
 
 ### Certificates:
 CompTIA A+\
@@ -27,6 +28,7 @@ Chick-fil-A: IT Dept. (Sept 2021 - July 2022)
 💖 Discord bots: [BasementBot](https://github.com/purplelemons-dev/basementbot), [CryptoBot](https://github.com/purplelemons-dev/380-crypto-center), [DiscordRCON](https://github.com/purplelemons-dev/discordRCON)\
 💖 REST APIs (see above and below)\
 😀 Python Flask: [The Basement webpage](https://thebasement.group/)\
+😀 Minecraft Plugins: [ExtraMinecraft](extraminecraft), [SharedInventory](sharedinventory), and [WebPlugin](webplugin)\
 😀 Linux server administration (esp. Ubuntu/Debian)\
 🤔 Tensorflow: !!! insert repo here\
 🤔 NGNIX: [The Basement website](https://hub.thebasement.group/)\
