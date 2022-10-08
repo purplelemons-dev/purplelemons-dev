@@ -2,7 +2,7 @@
 
 ## Education:
 ### Programming:
-💖 Python (5+ years)\
+💖 Python (6+ years)\
 😀 Ruby (4+ years)\
 😀 C++ (2+ years)\
 😀 HTML/CSS (2+ years)\
