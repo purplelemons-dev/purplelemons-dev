@@ -10,10 +10,12 @@
 🤔 Java (learning)
 
 ### School:
- * Completing A.A.S. Cybersecurity (3.7 GPA)
+ * A.A.S. Cybersecurity (3.7 GPA)
+ * Completing B.A.T. Cybersecurity (3.7 GPA)
  * Collin College Fall '21 President's list.
  * Ibid Spring '22 Dean's list.
- * Ibid Summer '22 Dean's list. 
+ * Ibid Summer '22 Dean's list.
+ * Ibid Fall '22 President's List.
 
 ### Certificates:
 CompTIA A+\
