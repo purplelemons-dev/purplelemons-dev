@@ -24,7 +24,8 @@ CompTIA A+\
 ## Experience:
 ### Employment:
 The Basement: Head Developer (Jun 2021 - July 2022)\
-Chick-fil-A: IT Dept. (Sept 2021 - July 2022)
+Chick-fil-A: IT Dept. (Sep 2021 - July 2022)\
+Collin College: Student Assistant at Student Enrollment Services (Aug 2022 - Present)
 
 ### Technologies:
 💖 Discord bots: [BasementBot](https://github.com/purplelemons-dev/basementbot), [CryptoBot](https://github.com/purplelemons-dev/380-crypto-center), [DiscordRCON](https://github.com/purplelemons-dev/discordRCON)\
