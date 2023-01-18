@@ -29,7 +29,7 @@ Collin College: [Student Assistant at Student Enrollment Services](https://githu
 
 ### Technologies:
 💖 Discord bots: [BasementBot](https://github.com/purplelemons-dev/basementbot), [CryptoBot](https://github.com/purplelemons-dev/380-crypto-center), [DiscordRCON](https://github.com/purplelemons-dev/discordRCON)\
-💖 REST APIs (see above and below)\
+💖 REST APIs (see above and below, as well as the Minecraft [WebPlugin](https://github.com/purplelemons-dev/webplugin))\
 😀 Python Flask: [The Basement webpage](https://thebasement.group/)\
 😀 Minecraft Plugins: [ExtraMinecraft](https://github.com/purplelemons-dev/extraminecraft), [SharedInventory](https://github.com/purplelemons-dev/sharedinventory), and [WebPlugin](https://github.com/purplelemons-dev/webplugin)\
 😀 Linux server administration (esp. Ubuntu/Debian)\
