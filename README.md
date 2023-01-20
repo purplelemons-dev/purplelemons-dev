@@ -18,8 +18,10 @@
  * Ibid Fall '22 President's List.
 
 ### Certificates:
-CompTIA A+\
-<img src="Aplus Logo Certified CE.png" alt="Aplus Logo Certified CE" width="128"/>
+- A+ | CompTIA\
+<img src="Aplus Logo Certified CE.png" alt="Aplus Logo Certified CE" width="128"/>\
+- *Cert. Level 1* Cybersecurity Infrastructure Technician | Collin College
+- *Cert. Level 1* Information Systems Cybersecurity | Collin College
 
 ## Experience:
 ### Employment:
