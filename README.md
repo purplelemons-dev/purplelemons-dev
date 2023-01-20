@@ -6,8 +6,8 @@
 😀 Ruby (4+ years)\
 😀 C++ (2+ years)\
 😀 HTML/CSS (2+ years)\
-😀 JavaScript (1 year)\
-🤔 Java (learning)
+😀 JavaScript (1+ year)\
+🤔 Java (1+ year)
 
 ### School:
  * A.A.S. Cybersecurity (3.7 GPA)
