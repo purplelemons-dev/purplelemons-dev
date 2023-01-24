@@ -18,9 +18,9 @@
  * Ibid Fall '22 President's List.
 
 ### Certificates:
-- *Cert. Level 1* Cybersecurity Infrastructure Technician | Collin College
-- *Cert. Level 1* Information Systems Cybersecurity | Collin College
-- A+ | CompTIA
+- *Cert. Level 1* Cybersecurity Infrastructure Technician | Collin College | December 2022
+- *Cert. Level 1* Information Systems Cybersecurity | Collin College | December 2022
+- A+ | CompTIA | January 2022
 <img src="Aplus Logo Certified CE.png" alt="Aplus Logo Certified CE" width="128"/>
 
 ## Experience:
