@@ -25,8 +25,8 @@
 
 ## Experience:
 ### Employment:
-The Basement: [Head Developer](https://github.com/purplelemons-dev/basementbot) (Jun 2021 - July 2022)\
-Chick-fil-A: IT Dept. (Sep 2021 - July 2022)\
+The Basement: [Head Developer](https://github.com/purplelemons-dev/basementbot) (July 2021 - May 2022)\
+Chick-fil-A: IT Dept. (June 2020 - July 2022)\
 Collin College: [Student Assistant at Student Enrollment Services](https://github.com/purplelemons-dev/collin-work) (Aug 2022 - Present)
 
 ### Technologies:
@@ -35,7 +35,7 @@ Collin College: [Student Assistant at Student Enrollment Services](https://githu
 😀 Python Flask: [The Basement webpage](https://thebasement.group/)\
 😀 Minecraft Plugins: [ExtraMinecraft](https://github.com/purplelemons-dev/extraminecraft), [SharedInventory](https://github.com/purplelemons-dev/sharedinventory), and [WebPlugin](https://github.com/purplelemons-dev/webplugin)\
 😀 Linux server administration (esp. Ubuntu/Debian)\
-🤔 Tensorflow: !!! insert repo here\
+🤔 Tensorflow: [right here](https://github.com/purplelemons-dev/reddit-gpt)\
 🤔 NGNIX: [The Basement website](https://hub.thebasement.group/)\
 🤔 NodeJS & npm (see above)
 
