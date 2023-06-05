@@ -10,12 +10,13 @@
 🤔 Java (1+ year)
 
 ### School:
- * A.A.S. Cybersecurity (3.7 GPA)
- * Completing B.A.T. Cybersecurity (3.7 GPA)
- * Collin College Fall '21 President's list.
- * Ibid Spring '22 Dean's list.
- * Ibid Summer '22 Dean's list.
- * Ibid Fall '22 President's List.
+ * A.A.S. Cybersecurity (3.7 GPA) awarded December 2022
+ * Completing B.A.T. Cybersecurity (3.7 GPA) by December 2024
+ * Collin College Fall '21 President's list
+ * Ibid Spring '22 Dean's List
+ * Ibid Summer '22 Dean's List
+ * Ibid Fall '22 President's List
+ * Ibid Spring '23 President's List
 
 ### Certificates:
 - *Cert. Level 1* Cybersecurity Infrastructure Technician | Collin College | December 2022
