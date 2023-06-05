@@ -11,7 +11,7 @@
 
 ### School:
  * A.A.S. Cybersecurity (3.7 GPA) awarded December 2022
- * Completing B.A.T. Cybersecurity (3.7 GPA) by December 2024
+ * Completing B.A.T. Cybersecurity (3.8 GPA) by December 2024
  * Collin College Fall '21 President's list
  * Ibid Spring '22 Dean's List
  * Ibid Summer '22 Dean's List
