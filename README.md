@@ -2,11 +2,11 @@
 
 ## Education:
 ### Programming:
-💖 Python (6+ years)\
+💖 Python (7+ years)\
 😀 Ruby (4+ years)\
-😀 C++ (2+ years)\
-😀 HTML/CSS (2+ years)\
-😀 JavaScript (1+ year)\
+😀 C++ (3+ years)\
+😀 HTML/CSS (3+ years)\
+😀 JavaScript (2+ year)\
 🤔 Java (1+ year)
 
 ### School:
