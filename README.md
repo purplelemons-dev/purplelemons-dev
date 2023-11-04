@@ -1,7 +1,7 @@
 # MRH3ADSH0T / Purplelemons / Josh Smith
 
 ## Education:
-### Programming:
+### (Mainly) Self-Taught Programming:
 💖 Python (7+ years)\
 😀 Ruby (4+ years)\
 😀 C++ (3+ years)\
