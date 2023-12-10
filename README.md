@@ -1,13 +1,20 @@
 # MRH3ADSH0T / Purplelemons / Josh Smith
 
+## Contact
+
+* [jsmith@purplelemons.dev](mailto:jsmith@purplelemons.dev)
+* [jsmith@cyberthing.dev](mailto:jsmith@cyberthing.dev)
+* [@purplemonsdev](https://twitter.com/purplelemonsdev)
+* [@thepurplelemons](https://discordapp.com/users/483000308876967937) (email me/dm on twitter first)
+
 ## Education:
 ### (Mainly) Self-Taught Programming:
 💖 Python (7+ years)\
 😀 Ruby (4+ years)\
 😀 C++ (3+ years)\
 😀 HTML/CSS (3+ years)\
-😀 JavaScript (2+ year)\
-🤔 Java (1+ year)
+😀 JavaScript (3+ year)\
+🤔 Java (2+ year)
 
 ### School:
  * A.A.S. Cybersecurity (3.7 GPA) awarded December 2022
