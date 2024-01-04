@@ -4,6 +4,7 @@
 
 * [jsmith@purplelemons.dev](mailto:jsmith@purplelemons.dev)
 * [jsmith@cyberthing.dev](mailto:jsmith@cyberthing.dev)
+* [me@joshsmith.dev](mailto:me@joshsmith.dev)
 * [@purplemonsdev](https://twitter.com/purplelemonsdev)
 * [@thepurplelemons](https://discordapp.com/users/483000308876967937) (email me/dm on twitter first)
 
@@ -24,6 +25,7 @@
  * Ibid Summer '22 Dean's List
  * Ibid Fall '22 President's List
  * Ibid Spring '23 President's List
+ * Ibid Fall '23 Dean's List
 
 ### Certificates:
 - *Cert. Level 1* Cybersecurity Infrastructure Technician | Collin College | December 2022
