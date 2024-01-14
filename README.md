@@ -28,18 +28,31 @@
  * Ibid Fall '23 Dean's List
 
 ### Certificates:
+- *CJIS* Criminal Justice Information Services | FBI | December 2023
 - *Cert. Level 1* Cybersecurity Infrastructure Technician | Collin College | December 2022
 - *Cert. Level 1* Information Systems Cybersecurity | Collin College | December 2022
 - A+ | CompTIA | January 2022
 <img src="Aplus Logo Certified CE.png" alt="Aplus Logo Certified CE" width="128"/>
 
 ## Experience:
-### Employment:
-The Basement: [Head Developer](https://github.com/purplelemons-dev/basementbot) (July 2021 - May 2022)\
-Chick-fil-A: IT Dept. (June 2020 - July 2022)\
-Collin College: [Student Assistant at Student Enrollment Services](https://github.com/purplelemons-dev/collin-work) (Aug 2022 - Present)
 
-### Technologies:
+### NTFC *North Texas Fusion Center*
+<sup>(Dec 2023 - )</sup>\
+Research Specialist
+
+### The Basement:
+<sup>(July 2021 - May 2022)</sup>\
+[Head Developer](https://github.com/purplelemons-dev/basementbot)
+
+### Chick-fil-A
+<sup>(June 2020 - July 2022)</sup>\
+IT Team Member
+
+### Collin College
+<sup>(Aug 2022 - Present)</sup>\
+[Student Assistant at Student Enrollment Services](https://github.com/purplelemons-dev/collin-work)
+
+## Technologies:
 💖 Discord bots: [BasementBot](https://github.com/purplelemons-dev/basementbot), [CryptoBot](https://github.com/purplelemons-dev/380-crypto-center), [DiscordRCON](https://github.com/purplelemons-dev/discordRCON)\
 💖 REST APIs (see above and below, as well as the Minecraft [WebPlugin](https://github.com/purplelemons-dev/webplugin))\
 😀 Python Flask: [The Basement webpage](https://thebasement.group/)\
