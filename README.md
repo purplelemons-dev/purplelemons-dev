@@ -2,11 +2,13 @@
 
 ## Contact
 
-* [jsmith@purplelemons.dev](mailto:jsmith@purplelemons.dev)
-* [jsmith@cyberthing.dev](mailto:jsmith@cyberthing.dev)
-* [me@joshsmith.dev](mailto:me@joshsmith.dev)
-* [@purplemonsdev](https://twitter.com/purplelemonsdev)
-* [@thepurplelemons](https://discordapp.com/users/483000308876967937) (email me/dm on twitter first)
+| Type        | Link/Contact                     |
+|-------------|----------------------------------|
+| Email - Dev.     | [jsmith@purplelemons.dev](mailto:jsmith@purplelemons.dev) |
+| Email - Business | [jsmith@cyberthing.dev](mailto:jsmith@cyberthing.dev) |
+| Email - Personal | [me@joshsmith.dev](mailto:me@joshsmith.dev) |
+| Twitter          | [@purplemonsdev](https://twitter.com/purplelemonsdev) |
+| Discord          | [@thepurplelemons](https://discordapp.com/users/483000308876967937) (email me/dm on twitter first) |
 
 ## Education:
 ### (Mainly) Self-Taught Programming:
