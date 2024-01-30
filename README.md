@@ -62,8 +62,8 @@ IT Team Member
 🤔 NGNIX: [The Basement website](https://hub.thebasement.group/)\
 🤔 NodeJS & npm (see above)
 
-
-![](https://github-readme-stats.vercel.app/api?username=purplelemons-dev&count_private=true&show_icons=true&theme=vue-dark)\
+![](https://wakatime.com/share/@018d4997-b335-4332-a338-fa718e12310c/79718503-688d-49cb-be93-ac22cf956f5e.png)\
+![](https://github-readme-stats.vercel.app/api?username=purplelemons-dev&count_private=true&show_icons=true&theme=vue-dark)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=purplelemons-dev&layout=compact&show_icons=true&theme=vue-dark)
 
 ## Goals:
