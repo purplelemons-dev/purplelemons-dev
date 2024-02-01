@@ -40,7 +40,7 @@
 
 ### NTFC *North Texas Fusion Center*
 <sup>(Dec 2023 - )</sup>\
-Research Specialist
+[Research Specialist](https://github.com/ntfc-interns)
 
 ### The Basement:
 <sup>(July 2021 - May 2022)</sup>\
