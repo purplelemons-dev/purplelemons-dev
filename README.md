@@ -7,8 +7,7 @@
 | Email - Dev.     | [jsmith@purplelemons.dev](mailto:jsmith@purplelemons.dev) |
 | Email - Business | [jsmith@cyberthing.dev](mailto:jsmith@cyberthing.dev) |
 | Email - Personal | [me@joshsmith.dev](mailto:me@joshsmith.dev) |
-| Twitter          | [@purplemonsdev](https://twitter.com/purplelemonsdev) |
-| Discord          | [@thepurplelemons](https://discordapp.com/users/483000308876967937) (email me/dm on twitter first) |
+| Discord          | [@thepurplelemons](https://discordapp.com/users/483000308876967937) (email me first) |
 
 ## Education:
 ### (Mainly) Self-Taught Programming:
