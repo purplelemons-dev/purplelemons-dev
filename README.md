@@ -37,8 +37,12 @@
 
 ## Experience:
 
+### HCSC (Healthcare Services Corporation)
+<sup>(Jun 2024 - )</sup>\
+SOC Analyst
+
 ### NTFC *North Texas Fusion Center*
-<sup>(Dec 2023 - )</sup>\
+<sup>(Dec 2023 - May 2024)</sup>\
 [Research Specialist](https://github.com/ntfc-interns)
 
 ### The Basement:
