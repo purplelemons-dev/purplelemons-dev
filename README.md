@@ -45,6 +45,10 @@ SOC Analyst
 <sup>(Dec 2023 - May 2024)</sup>\
 [Research Specialist](https://github.com/ntfc-interns)
 
+### Collin College
+<sup>(Aug 2022 - May 2023)</sup>\
+[Student Assistant at Student Enrollment Services](https://github.com/purplelemons-dev/collin-work)
+
 ### The Basement:
 <sup>(July 2021 - May 2022)</sup>\
 [Head Developer](https://github.com/purplelemons-dev/basementbot)
@@ -52,10 +56,6 @@ SOC Analyst
 ### Chick-fil-A
 <sup>(June 2020 - July 2022)</sup>\
 IT Team Member
-
-### Collin College
-<sup>(Aug 2022 - Present)</sup>\
-[Student Assistant at Student Enrollment Services](https://github.com/purplelemons-dev/collin-work)
 
 ## Technologies:
 💖 Discord bots: [BasementBot](https://github.com/purplelemons-dev/basementbot), [CryptoBot](https://github.com/purplelemons-dev/380-crypto-center), [DiscordRCON](https://github.com/purplelemons-dev/discordRCON)\
