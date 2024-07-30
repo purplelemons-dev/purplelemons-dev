@@ -27,6 +27,7 @@
 </head>
 
 <body>
+    <h1>Download Contact Information for Josh Smith</h1>
     <div class="center">
         <button class="big-green-button" onclick="handleButtonClick()">DOWNLOAD CONTACT</button>
     </div>
@@ -34,7 +35,7 @@
         const handleButtonClick = () => {
             // Add your function logic here
             const joshVCF = vCard.create(vCard.Version.FOUR);
-            joshVCF.addFormattedName("Josh Smith");
+            joshVCF.addFormattedname("Josh Smith");
             joshVCF.addEmail("me@joshsmith.dev", vCard.Type.HOME);
             joshVCF.addPhone("1-214-218-2164", vCard.Type.CELL);
             joshVCF.addURL("https://github.com/purplelemons-dev");
