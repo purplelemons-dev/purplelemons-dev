@@ -1,1 +1,47 @@
-<h1>Hi!</h1>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Josh Smith - Contact</title>
+    <script src="js/vcard.js"></script>
+    <style>
+        .center {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        .big-green-button {
+            padding: 20px 40px;
+            font-size: 20px;
+            background-color: green;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="center">
+        <button class="big-green-button" onclick="handleButtonClick()">DOWNLOAD CONTACT</button>
+    </div>
+    <script>
+        const handleButtonClick = () => {
+            // Add your function logic here
+            const joshVCF = vCard.create(vCard.Version.FOUR);
+            joshVCF.addFormattedName("Josh Smith");
+            joshVCF.addEmail("me@joshsmith.dev", vCard.Type.HOME);
+            joshVCF.addPhone("1-214-218-2164", vCard.Type.CELL);
+            joshVCF.addURL("https://github.com/purplelemons-dev");
+
+            vCard.export(joshVCF, "JoshSmith", true);
+        }
+    </script>
+</body>
+
+</html>
