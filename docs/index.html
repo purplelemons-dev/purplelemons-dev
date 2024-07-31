@@ -2,52 +2,50 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Josh Smith - Contact</title>
-    <script src="js/vcard.js"></script>
-    <style>
-        .center {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-        }
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Josh Smith - Contact</title>
+	<script src="./js/vcard.js"></script>
+	<style>
+		.center {
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			height: 100vh;
+		}
 
-        .big-green-button {
-            padding: 20px 40px;
-            font-size: 20px;
-            background-color: green;
-            color: white;
-            border: none;
-            border-radius: 5px;
-            cursor: pointer;
-        }
-    </style>
+		.big-green-button {
+			padding: 20px 40px;
+			font-size: 20px;
+			background-color: green;
+			color: white;
+			border: none;
+			border-radius: 5px;
+			cursor: pointer;
+		}
+	</style>
 </head>
 
 <body>
-    <div class="center">
-        <h1>Download Contact Information for Josh Smith</h1>
-        <button id="abcd" class="big-green-button" onclick="handleButtonClick()">DOWNLOAD CONTACT</button>
-    </div>
-    <script>
-        const handleButtonClick = () => {
-            // Add your function logic here
-            const joshVCF = vCard.create(vCard.Version.FOUR);
-            joshVCF.addFormattedname("Josh Smith");
-            joshVCF.addEmail("me@joshsmith.dev", vCard.Type.HOME);
-            joshVCF.addPhone("1-214-218-2164", vCard.Type.CELL);
-            joshVCF.addUrl("https://github.com/purplelemons-dev");
+	<div class="center">
+		<h1>Download Contact Information for Josh Smith</h1>
+		<button id="abcd" class="big-green-button" onclick="handleButtonClick()">DOWNLOAD CONTACT</button>
+	</div>
+	<script>
+		const handleButtonClick = () => {
+			// Add your function logic here
+			const joshVCF = vCard.create(vCard.Version.FOUR);
+			joshVCF.addFormattedname("Josh Smith");
+			joshVCF.addEmail("me@joshsmith.dev", vCard.Type.HOME);
+			joshVCF.addPhone("1-214-218-2164", vCard.Type.CELL);
+			joshVCF.addUrl("https://github.com/purplelemons-dev");
 
-            vCard.export(joshVCF, "JoshSmith", true);
-        }
-    </script>
-    <script>
-        window.onload = () => {
-            document.getElementById("abcd").click();
-        }
-    </script>
+			vCard.export(joshVCF, "JoshSmith", true);
+		}
+		window.onload = () => {
+			document.getElementById("abcd").click();
+		}
+	</script>
 </body>
 
 </html>
