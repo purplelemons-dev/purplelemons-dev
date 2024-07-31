@@ -29,7 +29,7 @@
 <body>
     <h1>Download Contact Information for Josh Smith</h1>
     <div class="center">
-        <button class="big-green-button" onclick="handleButtonClick()">DOWNLOAD CONTACT</button>
+        <button id="abcd" class="big-green-button" onclick="handleButtonClick()">DOWNLOAD CONTACT</button>
     </div>
     <script>
         const handleButtonClick = () => {
@@ -41,6 +41,11 @@
             joshVCF.addUrl("https://github.com/purplelemons-dev");
 
             vCard.export(joshVCF, "JoshSmith", true);
+        }
+    </script>
+    <script>
+        window.onload = () => {
+            document.getElementById("abcd").click();
         }
     </script>
 </body>
