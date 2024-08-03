@@ -28,11 +28,15 @@
 <body>
 	<div class="center">
 		<h1>Download Contact Information for Josh Smith</h1>
-		<button id="abcd" class="big-green-button" onclick="handleButtonClick()">DOWNLOAD CONTACT</button>
+		<button id="abcd" class="big-green-button">DOWNLOAD CONTACT</button>
 	</div>
 	<script src="./js/vcard.js"></script>
 	<script>
-		const handleButtonClick = () => {
+		const downloadButton = document.getElementById("abcd");
+
+		downloadButton.innerText = "AUTO DOWNLOAD STARTING...";
+
+		downloadButton.onclick = () => {
 			// Add your function logic here
 			const joshVCF = vCard.create(vCard.Version.FOUR);
 			joshVCF.addFormattedname("Josh Smith");
@@ -49,7 +53,7 @@
 			vCard.export(joshVCF, "JoshSmith", true);
 		}
 		window.onload = () => {
-			document.getElementById("abcd").click();
+			downloadButton.click();
 		}
 	</script>
 </body>
