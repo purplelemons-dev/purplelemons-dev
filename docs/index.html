@@ -5,7 +5,6 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Josh Smith - Contact</title>
-	<script src="./js/vcard.js"></script>
 	<style>
 		.center {
 			display: flex;
@@ -31,14 +30,21 @@
 		<h1>Download Contact Information for Josh Smith</h1>
 		<button id="abcd" class="big-green-button" onclick="handleButtonClick()">DOWNLOAD CONTACT</button>
 	</div>
+	<script src="./js/vcard.js"></script>
 	<script>
 		const handleButtonClick = () => {
 			// Add your function logic here
 			const joshVCF = vCard.create(vCard.Version.FOUR);
 			joshVCF.addFormattedname("Josh Smith");
-			joshVCF.addEmail("me@joshsmith.dev", vCard.Type.HOME);
+			joshVCF.addEmail("me@joshsmith.dev", vCard.Type.MAIN);
+			joshVCF.addEmail("jsmith@cyberthing.dev", vCard.Type.WORK);
 			joshVCF.addPhone("1-214-218-2164", vCard.Type.CELL);
+			joshVCF.addTimezone("America/Chicago");
+			joshVCF.addLanguage("en-US");
+			joshVCF.addLanguage("ru-RU");
 			joshVCF.addUrl("https://github.com/purplelemons-dev");
+			joshVCF.addPubkey("https://keys.joshsmith.dev/?id=9D6717C8A3A5D9E075C4A26D95CB4250D6C26149");
+			joshVCF.addGender("M");
 
 			vCard.export(joshVCF, "JoshSmith", true);
 		}

@@ -31,6 +31,7 @@
 			"PUBKEY": { "version": [version.TWO, version.THREE, version.FOUR], "key": "KEY" },
 			"KIND": { "version": [version.FOUR], "key": "KIND" },
 			"LABEL": { "version": [version.TWO, version.THREE], "key": "LABEL" },
+			"LANGUAGE": { "version": [version.FOUR], "key": "LANG" },
 			// TODO: LOGO
 			"MAILER": { "version": [version.TWO, version.THREE], "key": "MAILER" },
 			"MEMBER": { "version": [version.FOUR], "key": "MEMBER" },
@@ -178,5 +179,11 @@
 		}
 	}
 
-	context.vCard = vCard
-})(this)
+	// Try to export the vCard object to the global context if in browser
+	// Otherwise, export it to the module context (Node.js)
+	if (typeof module !== 'undefined' && module.exports) {
+		module.exports = vCard;
+	} else {
+		context.vCard = vCard;
+	}
+})(this);
