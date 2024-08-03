@@ -1,3 +1,8 @@
+/* Retrieved...
+ * From:		https://gist.github.com/dun4n/9353031#file-vcard-js
+ * On:			Jul 30, 2024, 4:51 PM CDT
+ * Author:		https://github.com/dun4n
+ */
 (function (context) {
     var version = {
         "TWO": "2.1",
