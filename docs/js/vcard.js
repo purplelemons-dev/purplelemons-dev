@@ -28,7 +28,7 @@
             "GENDER": { "version": [version.FOUR], "key": "GENDER" },
             "GEO": { "version": [version.TWO, version.THREE, version.FOUR], "key": "GEO" }, // FIXME two differents formats
             "IMPP": { "version": [version.THREE, version.FOUR], "key": "IMPP" },
-            // TODO: KEY
+            "PUBKEY": { "version": [version.FOUR], "key": "KEY" },
             "KIND": { "version": [version.FOUR], "key": "KIND" },
             "LABEL": { "version": [version.TWO, version.THREE], "key": "LABEL" },
             // TODO: LOGO
