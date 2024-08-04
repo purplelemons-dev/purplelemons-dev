@@ -2,12 +2,12 @@
 
 ## Contact
 
-| Type        | Link/Contact                     |
-|-------------|----------------------------------|
-| Email - Dev.     | [jsmith@purplelemons.dev](mailto:jsmith@purplelemons.dev) |
-| Email - Business | [jsmith@cyberthing.dev](mailto:jsmith@cyberthing.dev) |
-| Email - Personal | [me@joshsmith.dev](mailto:me@joshsmith.dev) |
-| Discord          | [@thepurplelemons](https://discordapp.com/users/483000308876967937) (email me first) |
+| Type        | Link/Contact                     | Public Key |
+|-------------|----------------------------------| ---------- |
+| Email - Dev.     | [jsmith@purplelemons.dev](mailto:jsmith@purplelemons.dev) | N/A |
+| Email - Business | [jsmith@cyberthing.dev](mailto:jsmith@cyberthing.dev) | N/A |
+| Email - Personal | [me@joshsmith.dev](mailto:me@joshsmith.dev) | [here](https://keys.joshsmith.dev/?id=9D6717C8A3A5D9E075C4A26D95CB4250D6C26149) |
+| Discord          | [@thepurplelemons](https://discordapp.com/users/483000308876967937) (email me first) | N/A |
 
 ## Education:
 ### (Mainly) Self-Taught Programming:
