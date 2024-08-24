@@ -15,40 +15,49 @@
             flex-direction: column;
         }
 
-        .big-green-button {
-            padding: 20px 40px;
-            font-size: 20px;
-            background-color: green;
-            color: white;
-            border: none;
-            border-radius: 5px;
-            cursor: pointer;
-        }
-    </style>
+		.big-green-button {
+			padding: 20px 40px;
+			font-size: 20px;
+			background-color: green;
+			color: white;
+			border: none;
+			border-radius: 5px;
+			cursor: pointer;
+		}
+	</style>
 </head>
 
 <body>
-    <div class="center">
-        <h1>Download Contact Information for Josh Smith</h1>
-        <button id="abcd" class="big-green-button" onclick="handleButtonClick()">DOWNLOAD CONTACT</button>
-    </div>
-    <script>
-        const handleButtonClick = () => {
-            // Add your function logic here
-            const joshVCF = vCard.create(vCard.Version.FOUR);
-            joshVCF.addFormattedname("Josh Smith");
-            joshVCF.addEmail("me@joshsmith.dev", vCard.Type.HOME);
-            joshVCF.addPhone("1-214-218-2164", vCard.Type.CELL);
-            joshVCF.addUrl("https://github.com/purplelemons-dev");
+	<div class="center">
+		<h1>Download Contact Information for Josh Smith</h1>
+		<button id="abcd" class="big-green-button">DOWNLOAD CONTACT</button>
+	</div>
+	<script src="./js/vcard.js"></script>
+	<script>
+		const downloadButton = document.getElementById("abcd");
 
-            vCard.export(joshVCF, "JoshSmith", true);
-        }
-    </script>
-    <script>
-        window.onload = () => {
-            document.getElementById("abcd").click();
-        }
-    </script>
+		downloadButton.innerText = "AUTO DOWNLOAD STARTING...";
+
+		downloadButton.onclick = () => {
+			// Add your function logic here
+			const joshVCF = vCard.create(vCard.Version.FOUR);
+			joshVCF.addFormattedname("Josh Smith");
+			joshVCF.addEmail("me@joshsmith.dev", vCard.Type.MAIN);
+			joshVCF.addEmail("jsmith@cyberthing.dev", vCard.Type.WORK);
+			joshVCF.addPhone("1-214-218-2164", vCard.Type.CELL);
+			joshVCF.addTimezone("America/Chicago");
+			joshVCF.addLanguage("en-US");
+			joshVCF.addLanguage("ru-RU");
+			joshVCF.addUrl("https://github.com/purplelemons-dev");
+			joshVCF.addPubkey("https://keys.joshsmith.dev/?id=9D6717C8A3A5D9E075C4A26D95CB4250D6C26149");
+			joshVCF.addGender("M");
+
+			vCard.export(joshVCF, "JoshSmith", true);
+		}
+		window.onload = () => {
+			downloadButton.click();
+		}
+	</script>
 </body>
 
 </html>

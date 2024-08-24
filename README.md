@@ -2,12 +2,12 @@
 
 ## Contact
 
-| Type        | Link/Contact                     |
-|-------------|----------------------------------|
-| Email - Dev.     | [jsmith@purplelemons.dev](mailto:jsmith@purplelemons.dev) |
-| Email - Business | [jsmith@cyberthing.dev](mailto:jsmith@cyberthing.dev) |
-| Email - Personal | [me@joshsmith.dev](mailto:me@joshsmith.dev) |
-| Discord          | [@thepurplelemons](https://discordapp.com/users/483000308876967937) (email me first) |
+| Type        | Link/Contact                     | Public Key |
+|-------------|----------------------------------| ---------- |
+| Email - Dev.     | [jsmith@purplelemons.dev](mailto:jsmith@purplelemons.dev) | N/A |
+| Email - Business | [jsmith@cyberthing.dev](mailto:jsmith@cyberthing.dev) | N/A |
+| Email - Personal | [me@joshsmith.dev](mailto:me@joshsmith.dev) | [here](https://keys.joshsmith.dev/?id=9D6717C8A3A5D9E075C4A26D95CB4250D6C26149) |
+| Discord          | [@thepurplelemons](https://discordapp.com/users/483000308876967937) (email me first) | N/A |
 
 ## Education:
 ### (Mainly) Self-Taught Programming:
@@ -39,23 +39,41 @@
 
 ### HCSC (Healthcare Services Corporation)
 <sup>(Jun 2024 - )</sup>\
-SOC Analyst
+<ins>Level 1 SOC Analyst</ins>
+
+| Technologies | Skills |
+| ------ | ------------ |
+| <pre>Palo Alto Cortex: XSOAR, XSIAM, Strata<br>Akamai Prolexic<br>ProofPoint: TAP, TRAP<br>Microsoft: Cloud Defender, Exchange Admin, Azure<br>Confluence<br>ServiceNow<br>IronNet/IronVue</pre> | <pre>Threat hunting<br>Casing alerts/incidents<br>Documenting forensic<br>Writing automation/parsing scripts<br>Further perfecting OSINT skills<br>Right-of-boom investigation</pre> |
 
 ### NTFC *North Texas Fusion Center*
 <sup>(Dec 2023 - May 2024)</sup>\
 [Research Specialist](https://github.com/ntfc-interns)
+* Incident Response
+* Quickly filtering through hundreds of articles for key details
+* Perfecting OSINT skills with various tools
+* Honing software development by integrating with OSINT tools and automating operation center tasks
+* Left-of-boom investigation
+
+### Coach Homeschool
+<sup>(Apr 2023 - Aug 2024)</sup>
+* Integrated in-house and external apps with WordPress
+* Designed spreadsheet parsers
+* Built systems with Google Workspace API
+* Developed and hosted organization API
 
 ### Collin College
 <sup>(Aug 2022 - May 2023)</sup>\
 [Student Assistant at Student Enrollment Services](https://github.com/purplelemons-dev/collin-work)
+* 
 
 ### The Basement:
 <sup>(July 2021 - May 2022)</sup>\
 [Head Developer](https://github.com/purplelemons-dev/basementbot)
-
-### Chick-fil-A
-<sup>(June 2020 - July 2022)</sup>\
-IT Team Member
+The Basement was a Discord server set up by my friend and me during high school for North Texan homeschoolers to meet and make friends.
+* Managing technical Discord server permissions and settings
+* Developing, updating, and maintaining The BasementBot
+* Training and selecting IT team members
+* Building internal and external web APIs
 
 ## Technologies:
 💖 Discord bots: [BasementBot](https://github.com/purplelemons-dev/basementbot), [CryptoBot](https://github.com/purplelemons-dev/380-crypto-center), [DiscordRCON](https://github.com/purplelemons-dev/discordRCON)\
