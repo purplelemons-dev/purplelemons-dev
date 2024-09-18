@@ -96,7 +96,7 @@ Read some of them [here](https://github.com/users/purplelemons-dev/projects/1)!
 Sponsorship would be greatly appreciated!
 | Currency | Address | QR |
 | -------- | ------- | -- |
-| XMR | `87LwaDCq8PzEa7e2XkwFrFN3NM95tL2on6pCn7sN45H8iBpRLwRRDty9nDYxDiE25ucSfH1Ch9AJBFPM4EzU9Rb32GisLbm` | <div align="center"><a href="imgs/xmr.png"><img src="imgs/smolqr.jpg" /></a</div> |
-| ETH | `0xbbA39425D2B59e6E18435Ac2Fc77B0f507622502` | <div align="center"><a href="imgs/eth.png"><img src="imgs/smolqr.jpg" /></a</div> |
-| BTC | `bc1qmx8dupfxj8utzknnth55fun65vcwns9zged4ld` | <div align="center"><a href="imgs/btc.png"><img src="imgs/smolqr.jpg" /></a</div> |
-| SOL | `DZ4kAfNhNUMSrJZg4ZV31Myn7QVyikT8Xjs2ea8YGkP2` | <div align="center"><a href="imgs/sol.png"><img src="imgs/smolqr.jpg" /></a</div> |
+| XMR | `87LwaDCq8PzEa7e2XkwFrFN3NM95tL2on6pCn7sN45H8iBpRLwRRDty9nDYxDiE25ucSfH1Ch9AJBFPM4EzU9Rb32GisLbm` | <div align="center"><a href="imgs/xmr.png"><img src="imgs/smolqr.jpg" /></a></div> |
+| ETH | `0xbbA39425D2B59e6E18435Ac2Fc77B0f507622502` | <div align="center"><a href="imgs/eth.png"><img src="imgs/smolqr.jpg" /></a></div> |
+| BTC | `bc1qmx8dupfxj8utzknnth55fun65vcwns9zged4ld` | <div align="center"><a href="imgs/btc.png"><img src="imgs/smolqr.jpg" /></a></div> |
+| SOL | `DZ4kAfNhNUMSrJZg4ZV31Myn7QVyikT8Xjs2ea8YGkP2` | <div align="center"><a href="imgs/sol.png"><img src="imgs/smolqr.jpg" /></a></div> |
