@@ -12,7 +12,7 @@
 ## Education:
 ### (Mainly) Self-Taught Programming:
 
-| Confidence | Language | Years of Experience |
+| | Language | Years of Experience |
 | ---------- | -------- | ------------------- |
 | 💖 | Python | 7+ years |
 | 🤩 | JavaScript | 4+ years |
