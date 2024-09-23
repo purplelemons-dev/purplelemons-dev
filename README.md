@@ -11,12 +11,15 @@
 
 ## Education:
 ### (Mainly) Self-Taught Programming:
-💖 Python (7+ years)\
-😀 Ruby (4+ years)\
-😀 C++ (3+ years)\
-😀 HTML/CSS (3+ years)\
-😀 JavaScript (3+ year)\
-🤔 Java (2+ year)
+
+| Confidence | Language | Years of Experience |
+| ---------- | -------- | ------------------- |
+| 💖 | Python | 7+ years |
+| 🤩 | JavaScript | 4+ years |
+| 😀 | Ruby | 4+ years |
+| 😀 | C++ | 3+ years |
+| 😀 | HTML/CSS | 3+ years |
+| 🤔 | Java | 2+ years |
 
 ### School:
  * A.A.S. Cybersecurity (3.7 GPA) awarded December 2022
