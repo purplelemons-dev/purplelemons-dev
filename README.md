@@ -8,7 +8,7 @@
 | Email - Business | [jsmith@cyberthing.dev](mailto:jsmith@cyberthing.dev) | N/A |
 | Email - Personal | [me@joshsmith.dev](mailto:me@joshsmith.dev) | [here](https://keys.joshsmith.dev/?id=9D6717C8A3A5D9E075C4A26D95CB4250D6C26149) |
 | Discord          | [@thepurplelemons](https://discordapp.com/users/483000308876967937) (email me first) | N/A |
-| Bluesky          | [@purplelemons.dev](https://bsky.app/profile/purplelemons.dev) | | N/A |
+| Bluesky          | [@purplelemons.dev](https://bsky.app/profile/purplelemons.dev) | N/A |
 
 ## Education:
 ### (Mainly) Self-Taught Programming:
