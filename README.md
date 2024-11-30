@@ -1,4 +1,5 @@
-# MRH3ADSH0T / Purplelemons / Josh Smith
+# Josh Smith
+AKA: MRH3ADSH0T, Purplelemons
 
 ## Contact
 
