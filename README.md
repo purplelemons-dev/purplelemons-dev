@@ -26,12 +26,11 @@ AKA: MRH3ADSH0T, Purplelemons
 ### School:
  * A.A.S. Cybersecurity (3.7 GPA) awarded December 2022
  * Completing B.A.T. Cybersecurity (3.8 GPA) by December 2024
- * Collin College Fall '21 President's list
- * Ibid Spring '22 Dean's List
- * Ibid Summer '22 Dean's List
- * Ibid Fall '22 President's List
- * Ibid Spring '23 President's List
- * Ibid Fall '23 Dean's List
+
+| Award | Semester |
+| - | - |
+| President's List (4.0; >=12 credit hours) | Fall 2021, Fall 2022, Spring 2023 |
+| Dean's List (3.5+; >=12 credit hours) | Spring 2022, Summer 2022, Fall 2023 |
 
 ### Certificates:
 - *CJIS* Criminal Justice Information Services | FBI | December 2023
