@@ -27,10 +27,10 @@ AKA: MRH3ADSH0T, Purplelemons
  * A.A.S. Cybersecurity (3.7 GPA) awarded December 2022
  *  B.A.T. Cybersecurity (3.7 GPA) awarded December 2024
 
-| Award | Semester |
-| - | - |
-| President's List (4.0; >=12 credit hours) | Fall 2021, Fall 2022, Spring 2023 |
-| Dean's List (3.5+; >=12 credit hours) | Spring 2022, Summer 2022, Fall 2023 |
+| Award | Semester | # |
+| - | - | - |
+| President's List (4.0; >=12 credit hours) | Fall 2021, Fall 2022, Spring 2023 | 3x |
+| Dean's List (3.5+; >=12 credit hours) | Spring 2022, Summer 2022, Fall 2023 | 3x |
 
 ### Certificates:
 - *CJIS* Criminal Justice Information Services | FBI | December 2023
