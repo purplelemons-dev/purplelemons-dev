@@ -48,7 +48,7 @@ AKA: MRH3ADSH0T, Purplelemons
 
 | Technologies | Skills |
 | ------ | ------------ |
-| <pre>Palo Alto Cortex: XSOAR, XSIAM, Strata<br>Akamai Prolexic<br>ProofPoint: TAP, TRAP<br>Microsoft: Cloud Defender, Exchange Admin, Azure<br>Confluence<br>ServiceNow<br>IronNet/IronVue</pre> | <pre>Threat hunting<br>Casing alerts/incidents<br>Documenting forensic<br>Writing automation/parsing scripts<br>Further perfecting OSINT skills<br>Right-of-boom investigation</pre> |
+| <pre>Palo Alto Cortex: XSOAR, XSIAM, Strata<br>Akamai Prolexic<br>ProofPoint: TAP, TRAP<br>Microsoft: Defender for Endpoint, Exchange Admin, Azure<br>Confluence<br>ServiceNow<br>IronNet/IronVue</pre> | <pre>Threat hunting<br>Casing alerts/incidents<br>Documenting forensic<br>Writing automation/parsing scripts<br>Further perfecting OSINT skills<br>Right-of-boom investigation</pre> |
 
 ### NTFC *North Texas Fusion Center*
 <sup>(Dec 2023 - May 2024)</sup>\
