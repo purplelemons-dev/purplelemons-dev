@@ -24,9 +24,9 @@ AKA: MRH3ADSH0T, Purplelemons
 | 🤔 | Java | 2+ years |
 
 ### School:
+ * B.A.T. Cybersecurity (3.7 GPA) awarded December 2024
  * A.A.S. Cybersecurity (3.7 GPA) awarded December 2022
  * A.A. Liberal Arts (3.7 GPA) awarded December 2024
- * B.A.T. Cybersecurity (3.7 GPA) awarded December 2024
 
 | Award | Semester | # |
 | - | - | - |
