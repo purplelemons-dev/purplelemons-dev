@@ -44,7 +44,7 @@ AKA: MRH3ADSH0T, Purplelemons
 
 ### HCSC (Healthcare Services Corporation)
 <sup>(Jun 2024 - )</sup>\
-<ins>Jr. SOC Analyst</ins>
+<ins>Jr SOC Analyst</ins>
 
 | Technologies | Skills |
 | ------ | ------------ |
