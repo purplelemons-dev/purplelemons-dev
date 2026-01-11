@@ -44,7 +44,7 @@ AKA: MRH3ADSH0T, Purplelemons
 
 ### HCSC (Healthcare Services Corporation)
 <sup>(Jun 2024 - )</sup>\
-<ins>SOC Analyst</ins>
+<ins>Jr. SOC Analyst</ins>
 
 | Technologies | Skills |
 | ------ | ------------ |
@@ -94,8 +94,10 @@ The Basement was a Discord server set up by my friend and me during high school 
 ![](https://github-readme-stats.vercel.app/api?username=purplelemons-dev&count_private=true&show_icons=true&theme=vue-dark)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=purplelemons-dev&layout=compact&show_icons=true&theme=vue-dark)
 
+<!--
 ## Goals:
 Read some of them [here](https://github.com/users/purplelemons-dev/projects/1)!
+-->
 
 ## Sponsor
 Sponsorship would be greatly appreciated!
